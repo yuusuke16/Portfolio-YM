@@ -455,10 +455,6 @@ li {
     height: 70vh;
   }
 
-  .logo-name {
-    font-size: 16px;
-  }
-
   .logo-title {
     font-size: 40px;
   }
@@ -473,7 +469,7 @@ li {
   }
 
   .gnav-link {
-    font-size: 12px;
+    font-size: 15px;
   }
 
   .gnav-link:hover {
